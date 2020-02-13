@@ -1,5 +1,7 @@
 ## [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 
+Valid Parentheses
+
 ### 题目描述
 
 给定一个只包括 `'('`，`')'`，`'{'`，`'}'`，`'['`，`']'` 的字符串，判断字符串是否有效。
